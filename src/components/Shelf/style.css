@@ -1,0 +1,31 @@
+.shelf-content{
+    margin-bottom: 69px;
+}
+
+.shelf-seller {
+    margin-left: 7%;
+}
+
+.container-shelf {
+    width: 1140px;
+    margin: auto;
+}
+
+.shelf-seller {
+    margin-top: 17px;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.shelf-seller:after {
+    content: "";
+    display: block;
+    width: 65px;
+    height: 5px;
+    background-color: #c0c0c0;
+}
+
+.shelf .slick-dots{
+    bottom: 25px;
+}
